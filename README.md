@@ -1,9 +1,4 @@
-# decision-trees-dsc
-
-
-[Slides](https://docs.google.com/presentation/d/1HMdbKQTTimNzt_2y8AFwWLv9aq0ojoPzoRPDMCN3QPc/edit?usp=sharing) <br>
-[Code along](https://github.com/learn-co-students/decision-trees-dsc/blob/master/decision%20trees.ipynb) <br>
-[Exit ticket](https://forms.gle/sY5RYD1jHytX6FkGA)
+# decision-trees-ds
 
 
 ## Learning objectives
